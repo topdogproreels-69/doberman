@@ -2,5 +2,6 @@
 - Live: https://topdogproreels-69.github.io/doberman/
 - Buy (Payhip): https://payhip.com/b/kprYT
 - Also Ko-fi: https://ko-fi.com/s/db806b182a
-- DS24 756389 affiliate: pending approval
+- Affiliates (Payhip, live): https://payhip.com/auth/register/af6af1f396a1161
 - Links configured in build.py BUY_LINKS / KOFI_LINKS
+- Checkout is Payhip (primary) and Ko-fi (backup) only
